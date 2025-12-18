@@ -54,3 +54,17 @@ Interactive Power BI dashboard analyzing employee attendance, Work From Home (WF
 ---
 
 ## 📂 Repository Structure
+
+```text
+HR-Analytics-PowerBI-Dashboard/
+├── Dataset/
+├── PowerBI/
+├── Screenshots/
+│   ├── dashboard_overview.png
+│   ├── dashboard_apr_2022.png
+│   ├── dashboard_may_2022.png
+│   └── dashboard_june_2022.png
+└── README.md
+```
+
+
