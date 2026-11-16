@@ -1,11 +1,11 @@
 # HR Analytics Dashboard – Presence & Workforce Insights
 
-## 📌 Overview
+## Overview
 Interactive Power BI dashboard analyzing employee attendance, Work From Home (WFH), Work From Office (WFO), and Sick Leave (SL) patterns to support HR decision-making and workforce planning.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Power BI  
 - Power Query  
 - DAX  
@@ -13,14 +13,14 @@ Interactive Power BI dashboard analyzing employee attendance, Work From Home (WF
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 - Attendance %
 - WFH %
 - Sick Leave %
 
 ---
 
-## 📈 Insights Delivered
+## Insights Delivered
 - Attendance trends by date and day of week  
 - WFH vs WFO behavior patterns  
 - Sick leave spikes for wellness monitoring  
@@ -28,14 +28,14 @@ Interactive Power BI dashboard analyzing employee attendance, Work From Home (WF
 
 ---
 
-## 💡 Business Impact
+## Business Impact
 - Enabled data-driven workforce planning  
 - Supported infrastructure cost optimization  
 - Improved visibility into absenteeism risks  
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ### Overall Dashboard
 ![Overall Dashboard](Screenshots/dashboard_overview.png)
@@ -53,7 +53,7 @@ Interactive Power BI dashboard analyzing employee attendance, Work From Home (WF
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 HR-Analytics-PowerBI-Dashboard/
@@ -66,5 +66,3 @@ HR-Analytics-PowerBI-Dashboard/
 │   └── dashboard_june_2022.png
 └── README.md
 ```
-
-
